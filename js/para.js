@@ -1,1 +1,0 @@
-$('#baza').parallax({imageSrc: './img/bazzarbg.png'});
